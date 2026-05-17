@@ -1,2 +1,1 @@
-# Portfolio
-**Personal Portfolio** is a modern and responsive web project that showcases my skills, projects, and experience as a frontend developer 💻✨ The portfolio combines clean design, smooth animations, and interactive sections to create an engaging user experience while reflecting my passion for web development.
+A personal modern portfolio and it is responsive project.reflecting my skills, projects and my experience as a freshman frontend developer. the portfolio acheive cleaness design, smoth animation and an interactive sections .
