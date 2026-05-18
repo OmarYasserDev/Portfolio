@@ -802,6 +802,8 @@ hr{
     font-size: 16px;
 
     margin: 0;
+
+    text-align: justify;
 }
 
 /* Project Button */
