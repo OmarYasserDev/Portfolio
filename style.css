@@ -18,6 +18,10 @@ body{
     );
 
     min-height: 100vh;
+
+    width: 100%;
+    max-width: 1200px;
+    height: auto;
 }
 
 /* Navbar */
@@ -150,11 +154,7 @@ body{
 
     font-weight: bold;
 
-    background: linear-gradient(
-        90deg,
-        #a855f7,
-        #3b82f6
-    );
+    background: linear-gradient(90deg,#a855f7,#3b82f6);
 
     -webkit-background-clip: text;
 
@@ -733,6 +733,7 @@ hr{
 
     text-shadow: 0 0 15px rgba(168, 85, 247, 0.7);
 }
+
 #projects{
 
     display: flex;
@@ -848,5 +849,4 @@ hr{
 
     transform: scale(1.03);
 
-    box-shadow: 0 0 18px rgba(168, 85, 247, 0.5);
-}
+    box-shadow: 0 0 18px rgba(168, 85, 247, 0.5);}
